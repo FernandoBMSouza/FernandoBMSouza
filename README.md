@@ -5,12 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoBMSouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph" />
 </div>
-<div>
+<!-- <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Bouguereau-Linnocence.jpg" height="300" alt="Bouguereau Linnocence" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
