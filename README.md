@@ -9,11 +9,22 @@
 
 ###
 
-<img align="right" height="200" src="https://m.media-amazon.com/images/I/61UeOjI-2XL._AC_SY879_.jpg"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
@@ -29,21 +40,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
