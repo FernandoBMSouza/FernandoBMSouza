@@ -5,13 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoBMSouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph" />
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Bouguereau-Linnocence.jpg" height="200" alt="Bouguereau Linnocence" />
-  </div>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph" />
+</div>
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Bouguereau-Linnocence.jpg" height="300" alt="Bouguereau Linnocence" />
 </div>
 
 <div align="center">
