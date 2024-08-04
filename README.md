@@ -1,18 +1,3 @@
-<!--
-**FernandoBMSouza/FernandoBMSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">Hi! My name is Fernando and I'm from Brazil.</h2>
 
 ###
@@ -24,9 +9,7 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<img align="right" height="350" src="https://m.media-amazon.com/images/I/61UeOjI-2XL._AC_SY879_.jpg"  />
+<img align="right" height="200" src="https://m.media-amazon.com/images/I/61UeOjI-2XL._AC_SY879_.jpg"  />
 
 ###
 
@@ -59,8 +42,8 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
