@@ -15,15 +15,17 @@
 
 <br clear="both">
 
-<div align="center">
+<img align="right" height="300" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Bouguereau-Linnocence.jpg"  />
+
+###
+
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoBMSouza&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
